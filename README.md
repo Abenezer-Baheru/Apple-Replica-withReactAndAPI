@@ -30,3 +30,4 @@ Many thanks to EvangadiTech and Adugna Bekele.
 
 
 
+# Apple-Replica-withReactAndAPI
